@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mirupet/Desktop/Year2/Coding/cg/eyden-tracer-02-master/build",
+  "command": "/usr/bin/c++  -D_CRT_SECURE_NO_WARNINGS -D_SCL_SECURE_NO_WARNINGS -I../include -isystem /usr/include/opencv  -g   -std=gnu++1z -o CMakeFiles/eyden-tracer.dir/src/main.cpp.o -c /home/mirupet/Desktop/Year2/Coding/cg/eyden-tracer-02-master/src/main.cpp",
+  "file": "/home/mirupet/Desktop/Year2/Coding/cg/eyden-tracer-02-master/src/main.cpp"
+}
+]
